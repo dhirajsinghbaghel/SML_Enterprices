@@ -6,14 +6,14 @@
       <div class="top-row d-flex align-items-center justify-content-between">
         <a href="index.html" class="logo d-flex align-items-center">
           <!-- Uncomment the line below if you also wish to use an image logo -->
-          <img src="http://localhost/php/SMLEnterprices/images/feviIcon.jpg" alt="SML ENTERPRICES">
+          <img src="https://sml-enterprices.onrender.com/images/feviIcon.jpg" alt="SML ENTERPRICES">
           <h1 class="sitename">SML ENTERPRICES</h1>
         </a>
 
         <nav id="navmenu" class="navmenu">
           <ul>
-            <li><a href="http://localhost/php/SMLEnterprices/index.php" class="active">Home</a></li>
-            <li><a href="http://localhost/php/SMLEnterprices/pages/about-us.php">About</a></li>
+            <li><a href="https://sml-enterprices.onrender.com/index.php" class="active">Home</a></li>
+            <li><a href="https://sml-enterprices.onrender.com/pages/about-us.php">About</a></li>
             <li><a href="#services">Buy Car</a></li>
             <li class="dropdown"><a href="#portfolio">SMLE Products<i class="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
